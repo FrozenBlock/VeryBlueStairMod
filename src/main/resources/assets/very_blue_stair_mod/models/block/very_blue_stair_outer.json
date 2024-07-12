@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "very_blue_stair_mod:block/very_blue_stair",
+    "side": "very_blue_stair_mod:block/very_blue_stair",
+    "top": "very_blue_stair_mod:block/very_blue_stair"
+  }
+}
