@@ -19,9 +19,6 @@
 			"net.frozenblock.VeryBlueStairMod"
 		]
 	},
-	"mixins": [
-		"very-blue-stair-mod.mixins.json"
-	],
 	"depends": {
 		"fabricloader": ">=0.15.11",
 		"minecraft": "~1.21",
